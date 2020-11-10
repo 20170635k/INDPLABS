@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="monday">Lun</string>
+    <string name="thuesday">Mar</string>
+    <string name="wednesday">Mie</string>
+    <string name="thursday">Jue</string>
+    <string name="friday">Vie</string>
+    <string name="saturday">Sab</string>
+    <string name="sunday">Dom</string>
+
+</resources>
